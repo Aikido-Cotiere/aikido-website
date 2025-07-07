@@ -7,8 +7,8 @@ export default defineContentConfig({
 
     watch: {
         enabled: true,
-        port: 3000,
-        showURL: false
+        port: 4000,
+        showURL: true
     },
 
     collections: {
