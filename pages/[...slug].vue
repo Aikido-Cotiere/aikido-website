@@ -10,7 +10,7 @@ useSeoMeta({
 
 <template>
   <v-container>
-    <ContentRenderer v-if="data" :value="data" mdc-unwrap="p" />
+    <ContentRenderer v-if="data" :value="data" />
     <div v-else>
       <p>Loading...</p>
       <v-btn @click="refresh">Refresh</v-btn>
