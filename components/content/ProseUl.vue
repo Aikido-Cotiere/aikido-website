@@ -1,5 +1,5 @@
 <template>
-  <v-list v-bind="props" class="bg-transparent">
+  <v-list v-bind="props" density="compact" class="bg-transparent">
     <slot />
   </v-list>
 </template>
