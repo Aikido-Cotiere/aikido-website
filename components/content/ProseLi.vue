@@ -1,5 +1,5 @@
 <template>
-  <v-list-item prepend-icon="mdi-dot" v-bind="props">
+  <v-list-item prepend-icon="i-mdi-dot" v-bind="props">
     <slot />
   </v-list-item>
 </template>
