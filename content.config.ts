@@ -1,15 +1,6 @@
 import { defineContentConfig, defineCollection, z } from '@nuxt/content'
 
 export default defineContentConfig({
-    preview: {
-        dev: true,
-    },
-
-    watch: {
-        enabled: true,
-        port: 4000,
-        showURL: true
-    },
 
     collections: {
         pages: defineCollection({

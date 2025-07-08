@@ -28,7 +28,9 @@
 
     <v-main>
       <v-parallax src="/parallax.jpg">
-        <NuxtPage />
+        <v-container fluid>
+          <NuxtPage />
+        </v-container>
       </v-parallax>
     </v-main>
   </v-app>

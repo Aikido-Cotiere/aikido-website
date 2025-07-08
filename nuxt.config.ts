@@ -2,6 +2,8 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-05-15',
   devtools: { enabled: true },
 
+  ssr: true,
+
   modules: [
     '@nuxt/content',
     '@nuxt/fonts',
@@ -12,6 +14,16 @@ export default defineNuxtConfig({
 
   unocss: {
     icons: true
+  },
+
+  content: {
+    preview: {
+      dev: true
+    },
+    watch: {
+      enabled: true,
+      port: 4000,
+    }
   },
 
   vuetify: {
