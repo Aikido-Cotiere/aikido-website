@@ -2,7 +2,7 @@
 title: Les formalités d'inscription
 description: Les formalités d'inscription à l'aïkido à Dagneux.
 menu: Formalités d'inscription
-icon: octicon:law-16
+icon: i-octicon:law-16
 group: Inscriptions
 ---
 
