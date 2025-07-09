@@ -18,12 +18,9 @@ export default defineNuxtConfig({
 
   content: {
     preview: {
-      dev: true
+      dev: true,
+      api: 'https://api.nuxt.studio'
     },
-    watch: {
-      enabled: true,
-      port: 4000,
-    }
   },
 
   vuetify: {
