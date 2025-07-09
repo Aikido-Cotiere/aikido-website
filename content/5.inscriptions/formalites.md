@@ -8,10 +8,8 @@ group: Inscriptions
 
 # Formalités d'inscription
 
-::twoColumns
-
+::two-columns
 #left
-
 ## Nouveau pratiquant (n'ayant jamais été inscrit à ATC)
 
 Vous renseignez en ligne le formulaire d'inscription ([Inscrivez-vous ...](/inscription/premiere)) et validez votre saisie.

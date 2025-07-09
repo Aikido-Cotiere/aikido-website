@@ -7,7 +7,7 @@ date: 08-22-2023
 ## Reprise des entraînements :
 
 - adultes et adolescents : 4 septembre à 19h30
-- enfants de **8 à 13 ans**{style="color: red"} (nés entre 2010 et 2015 inclus) : 9 septembre à 10h15
+- enfants de **8 à 13 ans** (nés entre 2010 et 2015 inclus) : 9 septembre à 10h15
 
 Pour les nouveaux adhérents et les enfants qui souhaitent se réinscrire, les inscriptions en ligne, sont ouvertes. L'inscription définitive se fera à la reprise des entraînements.
 
