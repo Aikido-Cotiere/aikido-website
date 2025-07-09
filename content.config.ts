@@ -25,7 +25,7 @@ export default defineContentConfig({
                 title: z.string().min(1, 'Title is required'),
                 description: z.string().optional(),
                 date: z.date(),
-                image: z.string().optional(),
+                image: z.string().optional().editor({ input: 'icon' }),
             }),
         }),
 
